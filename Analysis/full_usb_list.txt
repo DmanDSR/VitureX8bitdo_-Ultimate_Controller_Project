@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+
+FriendlyName : AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
+InstanceId   : PCI\VEN_1022&DEV_1639&SUBSYS_0A8C1028&REV_00\4&20C24D55&0&0341
+
+FriendlyName : AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
+InstanceId   : PCI\VEN_1022&DEV_1639&SUBSYS_0A8C1028&REV_00\4&20C24D55&0&0441
+
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_0C45&PID_6A10\6&20C523FC&0&1
+
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\5&10B429B7&0&0
+
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\5&124D78A6&0&0
+
+=======
+
+FriendlyName : AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
+InstanceId   : PCI\VEN_1022&DEV_1639&SUBSYS_0A8C1028&REV_00\4&20C24D55&0&0341
+
+FriendlyName : AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
+InstanceId   : PCI\VEN_1022&DEV_1639&SUBSYS_0A8C1028&REV_00\4&20C24D55&0&0441
+
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_0C45&PID_6A10\6&20C523FC&0&1
+
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\5&10B429B7&0&0
+
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\5&124D78A6&0&0
+
+>>>>>>> 98d193724cd3ec1bfca0d21e059c3a30b2c9dd50

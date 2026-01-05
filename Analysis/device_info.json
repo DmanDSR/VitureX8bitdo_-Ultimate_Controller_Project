@@ -1,0 +1,266 @@
+<<<<<<< HEAD
+[
+  {
+    "vendor_id": 16700,
+    "product_id": 43982,
+    "manufacturer": "",
+    "product": "",
+    "serial": "",
+    "usage_page": 1,
+    "usage": 12,
+    "path": "b'\\\\\\\\?\\\\HID#DELLABCE#3&14ed0212&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 4,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col01#4&36a309a7&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 511,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col02#4&36a309a7&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col03#4&36a309a7&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col04#4&36a309a7&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65281,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col05#4&36a309a7&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 2,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col06#4&36a309a7&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 129,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col07#4&36a309a7&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 1,
+    "usage": 2,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col01#4&2e43c6ef&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 5,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col02#4&2e43c6ef&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 14,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col03#4&2e43c6ef&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col04#4&2e43c6ef&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 11720,
+    "product_id": 12808,
+    "manufacturer": "8BitDo",
+    "product": "8BitDo",
+    "serial": "",
+    "usage_page": 140,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#VID_2DC8&PID_3208#7&4e3d1f1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  }
+=======
+[
+  {
+    "vendor_id": 16700,
+    "product_id": 43982,
+    "manufacturer": "",
+    "product": "",
+    "serial": "",
+    "usage_page": 1,
+    "usage": 12,
+    "path": "b'\\\\\\\\?\\\\HID#DELLABCE#3&14ed0212&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 4,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col01#4&36a309a7&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 511,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col02#4&36a309a7&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col03#4&36a309a7&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col04#4&36a309a7&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65281,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col05#4&36a309a7&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 2,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col06#4&36a309a7&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 1267,
+    "product_id": 11368,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 129,
+    "path": "b'\\\\\\\\?\\\\HID#04F31234&Col07#4&36a309a7&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 1,
+    "usage": 2,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col01#4&2e43c6ef&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 5,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col02#4&2e43c6ef&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 13,
+    "usage": 14,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col03#4&2e43c6ef&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 10182,
+    "product_id": 3393,
+    "manufacturer": "Microsoft",
+    "product": "HIDI2C Device",
+    "serial": "9999",
+    "usage_page": 65280,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#DELL0A8C&Col04#4&2e43c6ef&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  },
+  {
+    "vendor_id": 11720,
+    "product_id": 12808,
+    "manufacturer": "8BitDo",
+    "product": "8BitDo",
+    "serial": "",
+    "usage_page": 140,
+    "usage": 1,
+    "path": "b'\\\\\\\\?\\\\HID#VID_2DC8&PID_3208#7&4e3d1f1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'"
+  }
+>>>>>>> 98d193724cd3ec1bfca0d21e059c3a30b2c9dd50
+]

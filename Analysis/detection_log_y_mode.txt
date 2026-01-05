@@ -1,0 +1,147 @@
+<<<<<<< HEAD
+USB Device Detection Tool
+============================================================
+Detecting USB devices on Windows...
+============================================================
+
+FriendlyName                
+------------                
+AMD USB 3.10 eXtensible H...
+AMD USB 3.10 eXtensible H...
+USB Composite Device        
+USB Composite Device        
+USB Root Hub (USB 3.0)      
+USB Root Hub (USB 3.0)      
+
+
+
+
+============================================================
+HID Devices (using pyhidapi):
+============================================================
+
+============================================================
+>>> VITURE x 8BitDo Controller FOUND! <<<
+============================================================
+
+Device: 8BitDo Ultimate Mobile Gaming Controller
+  Vendor ID: 0x2dc8
+  Product ID: 0x301f
+  >>> This is your VITURE x 8BitDo controller! <<<
+  Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_00#8&3a08357e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 
+
+Device:  
+  Vendor ID: 0x413c
+  Product ID: 0xabce
+  Path: b'\\\\?\\HID#DELLABCE#3&14ed0212&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 
+
+Device: Microsoft HIDI2C Device
+  Vendor ID: 0x27c6
+  Product ID: 0x0d41
+  Path: b'\\\\?\\HID#DELL0A8C&Col01#4&2e43c6ef&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 9999
+
+============================================================
+>>> VITURE x 8BitDo Controller FOUND! <<<
+============================================================
+
+Device: 8BitDo Ultimate Mobile Gaming Controller
+  Vendor ID: 0x2dc8
+  Product ID: 0x301f
+  >>> This is your VITURE x 8BitDo controller! <<<
+  Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_01#8&2244a939&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 
+
+============================================================
+Checking for USB storage devices...
+============================================================
+
+Name Root         Used  Free
+---- ----         ----  ----
+C    C:\  181754380288 ...84
+
+
+
+
+============================================================
+Next steps:
+1. Look for your controller in the list above
+2. Note the Vendor ID and Product ID
+3. Check if it appears as a storage device
+4. Run check_device_storage.py to try accessing files
+=======
+USB Device Detection Tool
+============================================================
+Detecting USB devices on Windows...
+============================================================
+
+FriendlyName                
+------------                
+AMD USB 3.10 eXtensible H...
+AMD USB 3.10 eXtensible H...
+USB Composite Device        
+USB Composite Device        
+USB Root Hub (USB 3.0)      
+USB Root Hub (USB 3.0)      
+
+
+
+
+============================================================
+HID Devices (using pyhidapi):
+============================================================
+
+============================================================
+>>> VITURE x 8BitDo Controller FOUND! <<<
+============================================================
+
+Device: 8BitDo Ultimate Mobile Gaming Controller
+  Vendor ID: 0x2dc8
+  Product ID: 0x301f
+  >>> This is your VITURE x 8BitDo controller! <<<
+  Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_00#8&3a08357e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 
+
+Device:  
+  Vendor ID: 0x413c
+  Product ID: 0xabce
+  Path: b'\\\\?\\HID#DELLABCE#3&14ed0212&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 
+
+Device: Microsoft HIDI2C Device
+  Vendor ID: 0x27c6
+  Product ID: 0x0d41
+  Path: b'\\\\?\\HID#DELL0A8C&Col01#4&2e43c6ef&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 9999
+
+============================================================
+>>> VITURE x 8BitDo Controller FOUND! <<<
+============================================================
+
+Device: 8BitDo Ultimate Mobile Gaming Controller
+  Vendor ID: 0x2dc8
+  Product ID: 0x301f
+  >>> This is your VITURE x 8BitDo controller! <<<
+  Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_01#8&2244a939&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+  Serial: 
+
+============================================================
+Checking for USB storage devices...
+============================================================
+
+Name Root         Used  Free
+---- ----         ----  ----
+C    C:\  181754380288 ...84
+
+
+
+
+============================================================
+Next steps:
+1. Look for your controller in the list above
+2. Note the Vendor ID and Product ID
+3. Check if it appears as a storage device
+4. Run check_device_storage.py to try accessing files
+>>>>>>> 98d193724cd3ec1bfca0d21e059c3a30b2c9dd50
