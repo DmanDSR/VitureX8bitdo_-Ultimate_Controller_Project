@@ -1,0 +1,231 @@
+<<<<<<< HEAD
+HID Device Inspector
+============================================================
+
+Scanning for HID devices...
+
+Found 4 controller/gamepad device(s):
+
+Device 1:
+============================================================
+>>> VITURE x 8BitDo Ultimate Mobile Gaming Controller <<<
+============================================================
+Manufacturer: 8BitDo
+Product: Ultimate Mobile Gaming Controller
+Vendor ID: 0x2dc8
+Product ID: 0x301f
+  >>> This is your target controller! <<<
+Serial Number: 
+Usage Page: 1
+Usage: 5
+Interface Number: 0
+Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_00#8&3a08357e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: 8BitDo
+Product String: Ultimate Mobile Gaming Controller
+Serial Number: 
+
+Report Descriptor Length: 187 bytes
+Report Descriptor (hex): 05010905a101850105091901290f150025017501950f810275019501810305010939150025073500463b0165147504950181427504950181030930093109320935150026ff00350046ff006500750895048102050209c409c5150026ff00750895028102850205080902150026ff007508953f810385010943150026ff007508950291820944150026ff007508950291820945150026ff007508950291820946150026ff0075089502918285810903150026ff007508953f9183c0
+
+Raw descriptor analysis:
+  First bytes: 05010905a101850105091901290f150025017501
+
+Device 2:
+============================================================
+Manufacturer: 
+Product: 
+Vendor ID: 0x413c
+Product ID: 0xabce
+Serial Number: 
+Usage Page: 1
+Usage: 12
+Interface Number: -1
+Path: b'\\\\?\\HID#DELLABCE#3&14ed0212&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: 
+Product String: 
+Serial Number: 
+
+Report Descriptor Length: 27 bytes
+Report Descriptor (hex): 0501090ca101850109c615002501750195018106750795018103c0
+
+Raw descriptor analysis:
+  First bytes: 0501090ca101850109c615002501750195018106
+
+Device 3:
+============================================================
+Manufacturer: Microsoft
+Product: HIDI2C Device
+Vendor ID: 0x27c6
+Product ID: 0x0d41
+Serial Number: 9999
+Usage Page: 1
+Usage: 2
+Interface Number: -1
+Path: b'\\\\?\\HID#DELL0A8C&Col01#4&2e43c6ef&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: Microsoft
+Product String: HIDI2C Device
+Serial Number: 9999
+
+Report Descriptor Length: 69 bytes
+Report Descriptor (hex): 05010902a1010901a10085010509190129021500250175019502810275069501810305010930093109381581257f750895038106050c0a38021581257f750895018106c0c0
+
+Raw descriptor analysis:
+  First bytes: 05010902a1010901a10085010509190129021500
+
+Device 4:
+============================================================
+>>> VITURE x 8BitDo Ultimate Mobile Gaming Controller <<<
+============================================================
+Manufacturer: 8BitDo
+Product: Ultimate Mobile Gaming Controller
+Vendor ID: 0x2dc8
+Product ID: 0x301f
+  >>> This is your target controller! <<<
+Serial Number: 
+Usage Page: 1
+Usage: 2
+Interface Number: 1
+Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_01#8&2244a939&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: 8BitDo
+Product String: Ultimate Mobile Gaming Controller
+Serial Number: 
+
+Report Descriptor Length: 69 bytes
+Report Descriptor (hex): 05010902a1010901a10085840509190129051500250175019505810275039501810305010930093109381581257f750895038106050c0a38021581257f750895018106c0c0
+
+Raw descriptor analysis:
+  First bytes: 05010902a1010901a10085840509190129051500
+
+
+Device information saved to device_info.json
+
+============================================================
+Next steps:
+1. Note the Vendor ID and Product ID of your controller
+2. The report descriptor contains information about device capabilities
+3. Use this information to understand what the device can do
+4. Check if there are firmware update tools available for this device
+=======
+HID Device Inspector
+============================================================
+
+Scanning for HID devices...
+
+Found 4 controller/gamepad device(s):
+
+Device 1:
+============================================================
+>>> VITURE x 8BitDo Ultimate Mobile Gaming Controller <<<
+============================================================
+Manufacturer: 8BitDo
+Product: Ultimate Mobile Gaming Controller
+Vendor ID: 0x2dc8
+Product ID: 0x301f
+  >>> This is your target controller! <<<
+Serial Number: 
+Usage Page: 1
+Usage: 5
+Interface Number: 0
+Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_00#8&3a08357e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: 8BitDo
+Product String: Ultimate Mobile Gaming Controller
+Serial Number: 
+
+Report Descriptor Length: 187 bytes
+Report Descriptor (hex): 05010905a101850105091901290f150025017501950f810275019501810305010939150025073500463b0165147504950181427504950181030930093109320935150026ff00350046ff006500750895048102050209c409c5150026ff00750895028102850205080902150026ff007508953f810385010943150026ff007508950291820944150026ff007508950291820945150026ff007508950291820946150026ff0075089502918285810903150026ff007508953f9183c0
+
+Raw descriptor analysis:
+  First bytes: 05010905a101850105091901290f150025017501
+
+Device 2:
+============================================================
+Manufacturer: 
+Product: 
+Vendor ID: 0x413c
+Product ID: 0xabce
+Serial Number: 
+Usage Page: 1
+Usage: 12
+Interface Number: -1
+Path: b'\\\\?\\HID#DELLABCE#3&14ed0212&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: 
+Product String: 
+Serial Number: 
+
+Report Descriptor Length: 27 bytes
+Report Descriptor (hex): 0501090ca101850109c615002501750195018106750795018103c0
+
+Raw descriptor analysis:
+  First bytes: 0501090ca101850109c615002501750195018106
+
+Device 3:
+============================================================
+Manufacturer: Microsoft
+Product: HIDI2C Device
+Vendor ID: 0x27c6
+Product ID: 0x0d41
+Serial Number: 9999
+Usage Page: 1
+Usage: 2
+Interface Number: -1
+Path: b'\\\\?\\HID#DELL0A8C&Col01#4&2e43c6ef&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: Microsoft
+Product String: HIDI2C Device
+Serial Number: 9999
+
+Report Descriptor Length: 69 bytes
+Report Descriptor (hex): 05010902a1010901a10085010509190129021500250175019502810275069501810305010930093109381581257f750895038106050c0a38021581257f750895018106c0c0
+
+Raw descriptor analysis:
+  First bytes: 05010902a1010901a10085010509190129021500
+
+Device 4:
+============================================================
+>>> VITURE x 8BitDo Ultimate Mobile Gaming Controller <<<
+============================================================
+Manufacturer: 8BitDo
+Product: Ultimate Mobile Gaming Controller
+Vendor ID: 0x2dc8
+Product ID: 0x301f
+  >>> This is your target controller! <<<
+Serial Number: 
+Usage Page: 1
+Usage: 2
+Interface Number: 1
+Path: b'\\\\?\\HID#VID_2DC8&PID_301F&MI_01#8&2244a939&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}'
+
+Device opened successfully!
+Manufacturer String: 8BitDo
+Product String: Ultimate Mobile Gaming Controller
+Serial Number: 
+
+Report Descriptor Length: 69 bytes
+Report Descriptor (hex): 05010902a1010901a10085840509190129051500250175019505810275039501810305010930093109381581257f750895038106050c0a38021581257f750895018106c0c0
+
+Raw descriptor analysis:
+  First bytes: 05010902a1010901a10085840509190129051500
+
+
+Device information saved to device_info.json
+
+============================================================
+Next steps:
+1. Note the Vendor ID and Product ID of your controller
+2. The report descriptor contains information about device capabilities
+3. Use this information to understand what the device can do
+4. Check if there are firmware update tools available for this device
+>>>>>>> 98d193724cd3ec1bfca0d21e059c3a30b2c9dd50
