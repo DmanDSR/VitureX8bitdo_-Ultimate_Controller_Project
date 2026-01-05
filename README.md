@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VITURE x 8BitDo Controller - PC Driver & Reverse Engineering
 
 <div align="center">
@@ -184,3 +183,4 @@ This repo includes Python scripts organized by function:
 This project is an unofficial community modification and is not affiliated with VITURE or 8BitDo. Use at your own risk.
 
 >>>>>>> 98d193724cd3ec1bfca0d21e059c3a30b2c9dd50
+
