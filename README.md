@@ -62,7 +62,7 @@ pyinstaller --onefile --name "VITURE_Controller_Bridge" bridge/controller_bridge
 
 ## 🔬 Reverse Engineering Findings
 
-For those interested in the hardware hacking journey, check out the [Controller_Hack_Findings](Controller_Hack_Findings/) folder.
+For those interested in the hardware hacking journey, check out the [Findings](Findings/) folder.
 
 ### Key Discoveries
 -   **Default Mode:** `VID: 2DC8` | `PID: 301F` (Android D-Input)
@@ -182,4 +182,5 @@ This repo includes Python scripts organized by function:
 
 ## ⚠️ Disclaimer
 This project is an unofficial community modification and is not affiliated with VITURE or 8BitDo. Use at your own risk.
+
 >>>>>>> 98d193724cd3ec1bfca0d21e059c3a30b2c9dd50
